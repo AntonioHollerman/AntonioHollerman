@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artifical Intelligence
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me tonioholler@gmail.com
+- 📫 How to reach me toniohollerprof@gmail.com
 
 <!---
 AntonioHollerman/AntonioHollerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
